@@ -8,13 +8,6 @@ body {
     background-color: lightgray;
 }
 
-/* .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-  } */
-
 h1 {
     background-color: #59AAA5;
     color: white;
@@ -51,10 +44,13 @@ a {
       h1 {
           text-align: left;
       }
-  }
+     
+    }
 
 
   @media screen and (min-width: 768) {
-
+    .container-link {
+        float: right;
+    }
   }
 
