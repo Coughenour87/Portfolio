@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: lightgray;
+    background-image: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/cubes.png");
 }
 
 .center {
@@ -60,4 +60,3 @@ a {
   @media screen and (min-width: 768) {
 
   }
-
