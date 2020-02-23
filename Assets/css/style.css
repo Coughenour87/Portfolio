@@ -16,7 +16,7 @@ body {
   }
 
 h1 {
-    background-color: #59AAA5;
+    background-color:darkcyan;
     color: white;
     text-align: center;
 }
@@ -29,7 +29,7 @@ h1 {
 
 h2 {
     background-color: white;
-    color: #59AAA5;
+    color: darkcyan;
     text-align: left;
 }
 
@@ -51,12 +51,5 @@ a {
       h1 {
           text-align: left;
       }
-      /* .col {
-          text-align: right;
-      } */
   }
 
-
-  @media screen and (min-width: 768) {
-
-  }
